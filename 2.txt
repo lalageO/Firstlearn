@@ -1,0 +1,4 @@
+this is a text ,to test op i have learnt today.
+remember that :
+ese :退出编辑
+":wq" :保存并退出
